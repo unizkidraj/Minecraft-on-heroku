@@ -1,1 +1,7 @@
-[UNITY_0]
+[  {
+    "uuid": "990cff29-0587-3f54-9178-3ab7919d035c",
+    "name": "UNITY_0",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
